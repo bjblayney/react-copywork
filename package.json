@@ -4,8 +4,10 @@
   "description": "My copy work project. ---",
   "main": "index.js",
   "dependencies": {
+    "babel-loader": "^7.1.1",
     "babel-preset-latest": "^6.24.1",
-    "babel-preset-react": "^6.24.1"
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
